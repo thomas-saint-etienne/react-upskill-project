@@ -1,6 +1,6 @@
  <img src="/src/assets/boiler-plate.svg" alt="Project Banner Image">
 
-# Vite + React Technigo Boilerplate
+# Vite + React Upskill Technigo Boilerplate
 
 Welcome to the `react-vite-boiler-plate`!
 
