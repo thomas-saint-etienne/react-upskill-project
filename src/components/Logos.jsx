@@ -10,7 +10,7 @@ export const Logos = () => {
       <a href="https://react.dev" target="_blank">
         <img src={reactLogo} className="logo react" alt="React logo" />
       </a>
-      <a href="https://react.dev" target="_blank">
+      <a href="https://www.technigo.io/" target="_blank">
         <img src={technigo} className="logo react" alt="Technigo logo" />
       </a>
     </div>
