@@ -33,51 +33,7 @@ export const App = () => {
   };
   return (
     <>
-      {/* Component Example */}
-      <Logos />
-      <h1>{appContent.heading}</h1>
-      <p>{appContent.reactivedataExampleThree}</p>
-      <div className="card">
-        <p>{appContent.reactivedataExampleOne}</p>
-        <button onClick={addOne}>count is {count}</button>
-        <hr />
-        <p>{appContent.reactivedataExampleTwo}</p>
-        <h3>{name}</h3>
-        <button onClick={handleNameUpdate}>Change Name</button>
-        <hr />
-      </div>
-      <div>
-        <h2>{appContent.componentInfo}</h2>
-        <StaticComponent />
-        <hr />
-        <PropComponent
-          name="Diego"
-          age={32}
-          birthplace="Valencia, Venezuela"
-          likesPizza={true}
-        />
-        <PropComponent
-          name="Matilda"
-          age={32}
-          birthplace="Kalmar, Sweeden"
-          likesPizza={false}
-        />
-        <PropComponent
-          name="Theres"
-          age={34}
-          birthplace="Landvetter, Sweeden"
-          likesPizza={false}
-        />
-        <hr />
-        <Component />
-        <hr />
-        <PropComponentPropTypes
-          name="Jennie"
-          age={35}
-          birthplace="Kalmar, Sweeden"
-          likesPizza={false}
-        />
-      </div>
-    </>
+    Hello
+</>
   );
 };
