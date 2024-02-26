@@ -1,6 +1,4 @@
-# Project Title
-
-Food app
+# Reasypeasy 
 
 ## Description
 
@@ -18,62 +16,37 @@ Input what you have in your fridge, get a recipe back.
 
 ### Installing
 
-- How/where to download your program
-- Any modifications needed to be made to files/folders
+- Clone repo
+- Run ```npm install```
 
 ### Executing program
 
-- How to run the program
-- Step-by-step bullets
-
-```
-code blocks for commands
-```
+- Run ```npm run dev``` in folder
 
 ## Help
 
-Any advise for common problems or issues.
-
-```
-command to run if program contains helper info
-```
 
 ## Author
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Weekly Project Progress
-
-Describe here in detail the weekly implementations
+[Thomas Saint Etienne](https://github.com/thomas-saint-etienne)
 
 ## Weekly Progress
-
-Describe here in detail the weekly implementations
 
 ### Week 1 Progress
 
 - **What did I implement this week?**
-  - [ ] Feature A
-  - [ ] Feature B
-  - [ ] Bug fixes
-  - [ ] Refactoring
-  - [ ] The implementations above are examples, delete them and add yours
+  -  Set up the repo
+  -  Experimented fetching data from different APIs: Harry Potter, Beers, Spoonacular..
+  -  Found a concept for the app
+        
 - **What obstacles or roadblocks did I face this week?**
 
-  - [ ] Technical challenges
-  - [ ] Time constraints
-  - [ ] Communication issues
-  - [ ] Other (please specify)
-  - [ ] The implementations above are examples, delete them and add yours
+  - Token rate limit on Spoonacular which will lead me to find another Food API.
 
 - **Is there anything in particular that I would benefit from reviewing with the code instructor to enhance or solve my obstacles or roadblocks of the week?**
-  - [ ] Yes
-  - [ ] No
-  - [ ] Not sure, but would like guidance
-  - [ ] The implementations above are examples, delete them and add yours
+  - No
 
 ### Week 2 Progress
 
