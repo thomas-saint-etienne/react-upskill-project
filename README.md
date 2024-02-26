@@ -1,4 +1,4 @@
-# Reasypeasy 
+# Recipeasy 
 
 ## Description
 
