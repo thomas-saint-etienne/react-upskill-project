@@ -4,6 +4,8 @@
 
 Input what you have in your fridge, get a recipe back.
 
+https://cute-cannoli-4a3212.netlify.app/
+
 ## Getting Started
 
 ### Dependencies
